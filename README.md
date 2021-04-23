@@ -5,3 +5,5 @@ This is the repository for the [Flutter Intl](https://marketplace.visualstudio.c
 There are no source files here because it is closed source. We are working on making it open source.
 
 You can make feature requests by filing an issue.
+
+Extension documentation page: https://marketplace.visualstudio.com/items?itemName=localizely.flutter-intl
